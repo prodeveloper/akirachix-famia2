@@ -1,0 +1,7 @@
+Objective: Enable us to create a form for entering order details and then have an invoice generated
+
+Actions:
+- Create a layout
+- Create a form
+- Connect the form to my view (Show form and accept data from form)
+- Generate the invoice
